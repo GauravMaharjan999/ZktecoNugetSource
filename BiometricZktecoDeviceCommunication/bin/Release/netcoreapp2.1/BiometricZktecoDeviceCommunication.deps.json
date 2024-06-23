@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BiometricZktecoDeviceCommunication/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.0",
+          "ZKTecoProfessionalSDK": "1.1.0"
+        },
+        "runtime": {
+          "BiometricZktecoDeviceCommunication.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.18136"
+          }
+        }
+      },
+      "ZKTecoProfessionalSDK/1.1.0": {
+        "runtime": {
+          "lib/netcoreapp1.0/ZKEUEmKeeperNet.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BiometricZktecoDeviceCommunication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8/CtASu80UIoyG+r8FstrmZW5GLtXxzoYpjj3jV0FKZCL5CiFgSH3pAmqut/dC68mu7N1bU6v0UtKKL3gCUQGQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    },
+    "ZKTecoProfessionalSDK/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3ivAg85hnNGbo8e6SY9nEhJ4qBKAHgHA9zh/9PID7PTVd8X0sE/63CtxGjV5I93VuQS7xxgH2j8TUBCpSja5Bg==",
+      "path": "zktecoprofessionalsdk/1.1.0",
+      "hashPath": "zktecoprofessionalsdk.1.1.0.nupkg.sha512"
+    }
+  }
+}

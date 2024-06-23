@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BiometricZktecoDeviceCommunication</id>
+    <version>1.0.0</version>
+    <title>ZKTecoDeviceDeveloperFriendly</title>
+    <authors>Gaurav Maharjan</authors>
+    <description>DLL to connect with zkteco device</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="ZKTecoProfessionalSDK" version="1.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\gaurav.maharjan\source\repos\BiometricZktecoDeviceCommunication\BiometricZktecoDeviceCommunication\bin\Debug\netcoreapp2.1\BiometricZktecoDeviceCommunication.dll" target="lib\netcoreapp2.1\BiometricZktecoDeviceCommunication.dll" />
+  </files>
+</package>

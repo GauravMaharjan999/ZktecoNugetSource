@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Title>ZKTecoDeviceDeveloperFriendly</Title>
+    <Authors>Gaurav Maharjan</Authors>
+    <Description>DLL to connect with zkteco device</Description>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.0" />
+    <PackageReference Include="ZKTecoProfessionalSDK" Version="1.1.0" />
+  </ItemGroup>
+
+</Project>

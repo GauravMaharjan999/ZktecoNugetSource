@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gaurav.maharjan\\source\\repos\\BiometricZktecoDeviceCommunication\\BiometricZktecoDeviceCommunication\\BiometricZktecoDeviceCommunication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gaurav.maharjan\\source\\repos\\BiometricZktecoDeviceCommunication\\BiometricZktecoDeviceCommunication\\BiometricZktecoDeviceCommunication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gaurav.maharjan\\source\\repos\\BiometricZktecoDeviceCommunication\\BiometricZktecoDeviceCommunication\\BiometricZktecoDeviceCommunication.csproj",
+        "projectName": "BiometricZktecoDeviceCommunication",
+        "projectPath": "C:\\Users\\gaurav.maharjan\\source\\repos\\BiometricZktecoDeviceCommunication\\BiometricZktecoDeviceCommunication\\BiometricZktecoDeviceCommunication.csproj",
+        "packagesPath": "C:\\Users\\gaurav.maharjan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gaurav.maharjan\\source\\repos\\BiometricZktecoDeviceCommunication\\BiometricZktecoDeviceCommunication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gaurav.maharjan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\gaurav.maharjan\\source\\repos\\BiometricZktecoDeviceCommunication\\BiometricZktecoDeviceCommunication\\bin\\Release": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "ZKTecoProfessionalSDK": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
