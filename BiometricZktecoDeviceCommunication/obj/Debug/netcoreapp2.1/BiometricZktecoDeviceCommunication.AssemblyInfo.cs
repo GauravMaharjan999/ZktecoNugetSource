@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("DLL to connect with zkteco device")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+448280cb3bd8445c5a01098243d4b8abe85f8d1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BiometricZktecoDeviceCommunication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BiometricZktecoDeviceCommunication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

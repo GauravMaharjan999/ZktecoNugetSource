@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = BiometricZktecoDeviceCommunication
-build_property.ProjectDir = C:\Users\gaurav.maharjan\source\repos\BiometricZktecoDeviceCommunication\BiometricZktecoDeviceCommunication\
+build_property.ProjectDir = F:\Learning\ZktecoNugetSource\BiometricZktecoDeviceCommunication\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

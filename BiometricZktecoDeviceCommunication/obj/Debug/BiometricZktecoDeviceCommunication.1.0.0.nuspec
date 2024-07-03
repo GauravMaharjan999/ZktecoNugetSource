@@ -6,6 +6,7 @@
     <title>ZKTecoDeviceDeveloperFriendly</title>
     <authors>Gaurav Maharjan</authors>
     <description>DLL to connect with zkteco device</description>
+    <repository type="git" commit="448280cb3bd8445c5a01098243d4b8abe85f8d1e" />
     <dependencies>
       <group targetFramework=".NETCoreApp2.1">
         <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="2.1.0" exclude="Build,Analyzers" />
@@ -14,6 +15,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\gaurav.maharjan\source\repos\BiometricZktecoDeviceCommunication\BiometricZktecoDeviceCommunication\bin\Debug\netcoreapp2.1\BiometricZktecoDeviceCommunication.dll" target="lib\netcoreapp2.1\BiometricZktecoDeviceCommunication.dll" />
+    <file src="F:\Learning\ZktecoNugetSource\BiometricZktecoDeviceCommunication\bin\Debug\netcoreapp2.1\BiometricZktecoDeviceCommunication.dll" target="lib\netcoreapp2.1\BiometricZktecoDeviceCommunication.dll" />
   </files>
 </package>
